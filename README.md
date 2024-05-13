@@ -36,8 +36,7 @@ Test the App: Test the app functionality by booking rides, ordering food, and en
 
 Contributors
 
-John Doe (john.doe@example.com)
-Jane Smith (jane.smith@example.com)
+shubh goyal (shubhgoyal311@gmail.com)
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
