@@ -33,6 +33,11 @@ sql
 Copy code
 expo start
 Test the App: Test the app functionality by booking rides, ordering food, and ensuring that navigation and login features work as expected.
+few of the output screenshots - 
+<img width="1470" alt="Screenshot 2024-05-13 at 9 27 45 PM" src="https://github.com/shubh3112003/Beamo-uberclone/assets/87533795/ff1a6cf6-af99-4972-ae05-b520a71d6835">
+<img width="1470" alt="Screenshot 2024-05-13 at 9 28 15 PM" src="https://github.com/shubh3112003/Beamo-uberclone/assets/87533795/674f4625-af54-4d09-aa00-f244a1de2bb5">
+<img width="1470" alt="Screenshot 2024-05-13 at 9 28 26 PM" src="https://github.com/shubh3112003/Beamo-uberclone/assets/87533795/dde8304d-d90f-443f-9c36-6a1f1bc539c7">
+
 
 Contributors
 
